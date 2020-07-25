@@ -1,0 +1,17 @@
+{
+  "name": "node-browser-thread",
+  "version": "1.0.0",
+  "description": "an spare thread to off load the cpu intensive stuff to make ui more interactive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thread",
+    "multithreading",
+    "node",
+    "thread"
+  ],
+  "author": "ompurwar <kaidranzerom@gmail.com>",
+  "license": "ISC"
+}
